@@ -1,0 +1,14 @@
+{
+  "HOME": {
+    "TITLE": "Hello Angular with ngx-translate!",
+    "SELECT": "Change language"
+  },
+  "FEATURE": {
+    "TITLE": "Feature 1 title",
+    "PAGES": {
+      "LOGIN": {
+        "TITLE": "Login title"
+      }
+    }
+  }
+}
